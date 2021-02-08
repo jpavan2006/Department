@@ -1,0 +1,5 @@
+com\pavan\department\controller\DepartmentController.class
+com\pavan\department\entity\Department.class
+com\pavan\department\DepartmentserviceApplication.class
+com\pavan\department\repository\DepartmentRepository.class
+com\pavan\department\service\DepartmentService.class
